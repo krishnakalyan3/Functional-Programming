@@ -4,7 +4,7 @@
 		module="scalacode$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151022193043"
+		publication="20151024195712"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
