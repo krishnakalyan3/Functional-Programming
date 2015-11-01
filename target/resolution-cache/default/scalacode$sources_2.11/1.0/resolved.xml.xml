@@ -4,7 +4,7 @@
 		module="scalacode$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20151024195716"
+		publication="20151101144636"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>
